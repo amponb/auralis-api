@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "updatedAt": "2026-02-13T15:00:00Z",
+
+  "assets": {
+    "baseUrl": "https://drive.google.com/uc?id=",
+
+    "images": {
+      "night.jpg": {
+        "id": "1ghQc_53sc-SDNSLaa48HuJopWTHJMilg",
+        "hash": "img_night_v1"
+      },
+      "sea.jpg": {
+        "id": "1RITtqUCBarVOrkb9wwF-KtuiK68fQZpa",
+        "hash": "img_sea_v1"
+      },
+      "fire.jpg": {
+        "id": "1lMYCKKr4LXL8kcsfhn4lU-XIMUmMtLP6",
+        "hash": "img_fire_v1"
+      },
+      "rain.jpg": {
+        "id": "1yLAxT1U3nOsaf6hPjq6Btc3w71QHsKuo",
+        "hash": "img_rain_v1"
+      },
+      "bird.jpg": {
+        "id": "1aECSbcYilbclGHzZ9cqRpJLkSHmleqA8",
+        "hash": "img_bird_v1"
+      }
+    },
+
+    "sounds": {
+      "night.mp3": {
+        "id": "1QsXnJcFlkBjNZjuK8gTuoy_N45SqOAPh",
+        "hash": "snd_night_v1",
+        "loop": true
+      },
+      "sea.mp3": {
+        "id": "1Dz-T52X99hRPKVvkmLszvzD-tvbcLLDw",
+        "hash": "snd_sea_v1",
+        "loop": true
+      },
+      "fire.mp3": {
+        "id": "16r2XqMi-7rWiN0DsJI3T5YgoaY_IJnkk",
+        "hash": "snd_fire_v1",
+        "loop": true
+      },
+      "rain.mp3": {
+        "id": "1YA5VIv8Wehd89dU7bgC6JziTIlF-OzET",
+        "hash": "snd_rain_v1",
+        "loop": true
+      },
+      "bird.mp3": {
+        "id": "1l0uOCkPGYODb8I0fLsEjJbHVVh8V2FOy",
+        "hash": "snd_bird_v1",
+        "loop": true
+      }
+    }
+  },
+
+  "categories": [
+    {
+      "id": "night",
+      "title": "Night",
+      "image": "night.jpg",
+      "sounds": ["night.mp3"]
+    },
+    {
+      "id": "sea",
+      "title": "Sea",
+      "image": "sea.jpg",
+      "sounds": ["sea.mp3"]
+    },
+    {
+      "id": "fire",
+      "title": "Fire",
+      "image": "fire.jpg",
+      "sounds": ["fire.mp3"]
+    },
+    {
+      "id": "rain",
+      "title": "Rain",
+      "image": "rain.jpg",
+      "sounds": ["rain.mp3"]
+    },
+    {
+      "id": "bird",
+      "title": "Bird",
+      "image": "bird.jpg",
+      "sounds": ["bird.mp3"]
+    }
+  ]
+}
