@@ -1,3 +1,34 @@
 {
-  "categories": []
+  "categories": [
+    {
+      "id": "rain",
+      "title": "ฝน & พายุ",
+      "image": "rain.jpg",
+      "endpoint": "sounds/rain.json"
+    },
+    {
+      "id": "bird",
+      "title": "นกร้อง",
+      "image": "bird.jpg",
+      "endpoint": "sounds/bird.json"
+    },
+    {
+      "id": "fire",
+      "title": "กองไฟ",
+      "image": "fire.jpg",
+      "endpoint": "sounds/fire.json"
+    },
+    {
+      "id": "sea",
+      "title": "ทะเล",
+      "image": "sea.jpg",
+      "endpoint": "sounds/sea.json"
+    },
+    {
+      "id": "night",
+      "title": "ก่อนนอน",
+      "image": "night.jpg",
+      "endpoint": "sounds/night.json"
+    }
+  ]
 }
