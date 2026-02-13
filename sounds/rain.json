@@ -1,4 +1,16 @@
 {
-  "category": "rain",
-  "sounds": []
+  "id": "rain",
+  "loop": true,
+  "sounds": [
+    {
+      "id": "rain_light",
+      "title": "ฝนตกเบา",
+      "url": "https://drive.google.com/uc?id=FILE_ID_1"
+    },
+    {
+      "id": "rain_heavy",
+      "title": "ฝนตกหนัก",
+      "url": "https://drive.google.com/uc?id=FILE_ID_2"
+    }
+  ]
 }
